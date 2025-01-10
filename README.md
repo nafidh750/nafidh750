@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Adam Mashaka</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Nafidh Ally</h1>
 
 <br>
 
-Hi, I'm [Nafidh Ally](https://www.nafidhportifolio.netlify.app), a software Developer and AI&ML Engineer 👨🏻‍💻 from <b>Tanzania </b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+Hi, I'm [Nafidh Ally](https://www.nafidhportifilio.netlify.app), a software Developer and AI&ML Engineer 👨🏻‍💻 from <b>Tanzania </b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
 
 <br>
 
@@ -22,7 +22,7 @@ Hi, I'm [Nafidh Ally](https://www.nafidhportifolio.netlify.app), a software Deve
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pycharm_369)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NafidhMola) 
 <p align="left">
-<a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Adam Mashaka" height="30" width="40" /></a>
+<a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Nafidh750" height="30" width="40" /></a>
 </p>
   
  <br>
