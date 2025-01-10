@@ -1,34 +1,33 @@
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To Adam Mashaka</h1>
 
 <br>
 
-Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Developer and AI&ML Engineer 👨🏻‍💻 from <b>Tanzania </b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
+Hi, I'm [Nafidh Ally](https://www.nafidhportifolio.netlify.app), a software Developer and AI&ML Engineer 👨🏻‍💻 from <b>Tanzania </b>. I'm a Results-oriented full stack developer with 3+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations. 
 
 <br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdamMashaka&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nafidh-Ally&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
- - 📫 How to reach me: [adammashaka@gmail.com](mailto:mashakaadam123@gmail.com);
- - 🔗 My Website: https://adamportifolio.netlify.app/
- -    My Twiter handle: https://x.com/AdamMashak1
- -    My LinkidInn:   https://www.linkedin.com/in/adam-katani-b791b2259
+ - 📫 How to reach me: [nafidh750@gmail.com](mailto:nafidh750@gmail.com);
+ - 🔗 My Website: https://nafidhportifilio.netlify.app/
+ -    My Twiter handle: https://x.com/Nafidh750
+ -    My LinkidInn:   https://www.linkedin.com/in/pycharm
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/adam-katani-b791b2259?)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdamMashak1) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AdamKatani)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AdamKatani) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/nafidh-ally-b791b2259?)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nafidh750) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pycharm_369)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NafidhMola) 
 <p align="left">
 <a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Adam Mashaka" height="30" width="40" /></a>
 </p>
   
  <br>
 <h3>Profile Views</h3>
- <p align="left"> <img src="https://profile-counter.glitch.me/AdamMashaka/count.svg" alt="AdamMashaka" /> </p>
+ <p align="left"> <img src="https://profile-counter.glitch.me/Nafidh750/count.svg" alt="Nafidh750" /> </p>
  
  </br>
 
@@ -43,14 +42,14 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
 <br />
 
  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdamMashaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Nafidh750&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdamMashaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdamMashaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamMashaka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Nafidh750&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nafidh750&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nafidh750&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/AdamKatani)
+[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/Nafidh750)
 
 <h3>My Tech stack</h3>
 <ul>
@@ -146,3 +145,4 @@ Hi, I'm [Adam Mashaka](https://www.adamportifolio.netlify.app), a software Devel
            <li><a href="https://github.com/AdamMashaka/theft-opensource">TheftDetector</a>It is the AI model that we have to make it to be very prfect so as we detect with big accurately number of fraud transaction in our daily life
         </ul>
     </li>
+
