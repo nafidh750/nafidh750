@@ -42,7 +42,7 @@ Hi, I'm [Nafidh Ally](https://www.nafidhportifilio.netlify.app), a software Deve
 <br />
 
  ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nafidh750&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AdamMashaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nafidh750&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
