@@ -13,13 +13,13 @@ Hi, I'm [Nafidh Ally](https://www.nafidhportifilio.netlify.app), a software Deve
 
  - 📫 How to reach me: [nafidh750@gmail.com](mailto:nafidh750@gmail.com);
  - 🔗 My Website: https://nafidhportifilio.netlify.app/
- -    My Twiter handle: https://x.com/Nafidh750
- -    My LinkidInn:   https://www.linkedin.com/in/pycharm
+ -    My Twiter handle: https://x.com/code
+ -    My LinkidInn:   (https://www.linkedin.com/in/nafidh-ally-284a09230/)
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/nafidh-ally-b791b2259?)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nafidh750) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pycharm_369)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/nafidh-ally-284a09230?)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code_Breaker369)  
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NafidhMola) 
 <p align="left">
 <a href="https://kaggle.com/gabriel minzemalulu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Nafidh750" height="30" width="40" /></a>
