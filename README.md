@@ -11,6 +11,11 @@ Hi, I'm [Nafidh Ally](https://www.nafidhportifilio.netlify.app), a software Deve
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
+## 🏆 Achievements
+- 🏅 Young Developer Programmer of the Year 2025 (Tehama Awards)  
+- 🏅 Best AI Innovator in Africa 2025  
+- 🌍 Invitee, Misk Tech Global Forum, Saudi Arabia 2025  
+
  - 📫 How to reach me: [nafidh750@gmail.com](mailto:nafidh750@gmail.com);
  - 🔗 My Website: https://nafidhportifilio.netlify.app/
  -    My Twiter handle: https://x.com/code
