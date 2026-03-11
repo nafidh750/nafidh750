@@ -17,7 +17,7 @@ Hi, I'm [Nafidh Ally](https://www.nafidhportifilio.netlify.app), a software Deve
 - 🌍 Invitee, Misk Tech Global Forum, Saudi Arabia 2025  
 
  - 📫 How to reach me: [nafidh750@gmail.com](mailto:nafidh750@gmail.com);
- - 🔗 My Website: https://nafidhportifilio.netlify.app/
+ - 🔗 My Website: https://nafidhportfolio.vercel.app/
  -    My Twiter handle: https://x.com/code
  -    My LinkidInn:   (https://www.linkedin.com/in/nafidh-ally-284a09230/)
 <!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
